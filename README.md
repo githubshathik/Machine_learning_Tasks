@@ -1,3 +1,3 @@
 # Machine_learning_Tasks
-Linear regression for bouston housing mean value deviation finding
-'adopt users define by XGboosting'
+task 6=Linear regression for bouston housing mean value deviation finding
+task 5='adopt users define by XGboosting'
